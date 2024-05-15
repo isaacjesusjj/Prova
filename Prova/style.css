@@ -1,0 +1,95 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header
+{
+    background-color: rgb(111, 109, 139);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content:space-around;    
+    padding:18px;
+    display: flex;
+}
+
+ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+li
+{
+    color: rgb(246, 251, 255);
+    padding: 20px;
+}
+
+.sec1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.hero-image
+{
+    background-image: url(https://images.pexels.com/photos/795188/pexels-photo-795188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    padding-top: 25vh;
+    
+}
+
+h2
+{
+    color: rgb(39, 35, 35);
+    
+}
+
+a
+{
+    border: 1px solid ;
+    padding-top: 10px;
+    
+}
+
+.sec2
+{
+    background-color: rgb(144, 204, 204);
+    color: gray;
+}
+
+.ul2{
+    padding:50px;
+}
+
+.li1
+{
+    color: rgb(90, 119, 119);
+}
+
+footer
+{
+    background-color: bisque;
+    padding: 130px;  
+}
+.footer
+{
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
